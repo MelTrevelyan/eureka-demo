@@ -1,2 +1,3 @@
 rootProject.name = 'Cloud-demo'
 
+includeBuild 'eureka-server'
