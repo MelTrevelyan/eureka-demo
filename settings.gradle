@@ -1,3 +1,4 @@
 rootProject.name = 'Cloud-demo'
 
 includeBuild 'eureka-server'
+includeBuild 'eureka-client'
