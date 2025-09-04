@@ -80,3 +80,23 @@ K
 api-gateway/settings.gradle,e\6\e69cb5b0282063d31adf159a7e543ab734112d47
 d
 4api-gateway/gradle/wrapper/gradle-wrapper.properties,1\6\16801c03474c19657930594eb0aeebc614a1ee5f
+‰
+Yeureka-client-2/src/main/java/ru/meltrevelyan/eurekaclient2/EurekaClient2Application.java,e\4\e4c6aa3a92e3a277c6af89e97b919d36e8cf850c
+Š
+Zeureka-client-2/src/main/java/ru/meltrevelyan/eurekaclient2/controller/TestController.java,d\f\dff9049e7d657459821d486e273bec19113eb4dd
+h
+8eureka-client-2/gradle/wrapper/gradle-wrapper.properties,2\e\2e970bc35482f59efaa10d058295e1cbe39d29dd
+K
+eureka-client-2/gradlew.bat,8\2\82286dea2fde589eb9c5434fe57f3f2ec33a3e13
+L
+eureka-client-2/build.gradle,4\4\44bf41fd2c82e439b4392067c8586cab94cf6a3c
+N
+eureka-client-2/.gitattributes,3\0\306f114e9b290318e3dfd1823c7307de87df53c9
+J
+eureka-client-2/.gitignore,7\f\7f7558dc85271934e4ed90e414d63324f18813b5
+O
+eureka-client-2/settings.gradle,a\3\a34d174d4d7e07406c7a687c42014a524230674b
+G
+eureka-client-2/gradlew,2\1\214d8fe04fd6d900f6ace516fdae84b763dd28ad
+
+^eureka-client-2/src/test/java/ru/meltrevelyan/eurekaclient2/EurekaClient2ApplicationTests.java,c\e\ced2e04c1fd67b1a0ce1c1a553a1481af3accc6c
