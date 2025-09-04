@@ -62,3 +62,21 @@ L
 eureka-server/.gitattributes,5\f\5ffdb37e7bf56269a7f68d488bee773324baf1dd
 E
 eureka-server/gradlew,9\7\976ec109e196f3590281c2577401873c78b9a588
+H
+api-gateway/build.gradle,6\8\68a416ff071be67c370ccc417719b65106ae9180
+G
+api-gateway/gradlew.bat,9\e\9ec7c77560d74c89bcfe15ce0df9638faf03552d
+J
+api-gateway/.gitattributes,9\0\90cfd2a4afcf61fa9ab010e514aad8ef4af0c461
+„
+Tapi-gateway/src/test/java/ru/meltrevelyan/apigateway/ApiGatewayApplicationTests.java,d\f\dfa26e5b8ac1daaa223b34f96b2a5aefa4ab88ff
+
+Oapi-gateway/src/main/java/ru/meltrevelyan/apigateway/ApiGatewayApplication.java,e\0\e01da7ee14b7a5e921a158599df9feefb6475d1b
+F
+api-gateway/.gitignore,f\f\ff1c5d5433a8148c17672f6832c630bb2426e4e9
+C
+api-gateway/gradlew,6\c\6ce4722fc03d88046cf909a9e7240469d861dc8a
+K
+api-gateway/settings.gradle,e\6\e69cb5b0282063d31adf159a7e543ab734112d47
+d
+4api-gateway/gradle/wrapper/gradle-wrapper.properties,1\6\16801c03474c19657930594eb0aeebc614a1ee5f
