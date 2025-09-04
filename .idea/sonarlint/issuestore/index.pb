@@ -100,3 +100,19 @@ G
 eureka-client-2/gradlew,2\1\214d8fe04fd6d900f6ace516fdae84b763dd28ad
 Ž
 ^eureka-client-2/src/test/java/ru/meltrevelyan/eurekaclient2/EurekaClient2ApplicationTests.java,c\e\ced2e04c1fd67b1a0ce1c1a553a1481af3accc6c
+Q
+!github-config-server/build.gradle,7\f\7fe6e773bb54e6b154a22647033533892d0a26a9
+˜
+hgithub-config-server/src/main/java/ru/meltrevelyan/githubconfigserver/GithubConfigServerApplication.java,b\e\be2248d956124935a731e64944dfd5dca3cd658a
+T
+$github-config-server/settings.gradle,4\d\4df890deb756356195243f9b49448cb4f36a2e96
+m
+=github-config-server/gradle/wrapper/gradle-wrapper.properties,3\8\38c1a4283625edfbc7992726636ce01af6aebb9a
+P
+ github-config-server/gradlew.bat,b\7\b7dbd6da934f697887d2ce91274e386fd5dc06b3
+S
+#github-config-server/.gitattributes,4\4\448767d7179d9a5a5907676742454967de7a0d68
+O
+github-config-server/.gitignore,e\a\ea429e7eacfebd0010e6430ff5dcd9211af5aca3
+L
+github-config-server/gradlew,b\3\b3b266f4f21af43af77ae5c1e7b7154eff00d240
